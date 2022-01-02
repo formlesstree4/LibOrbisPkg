@@ -1,5 +1,5 @@
 # LibOrbisPkg
-[![Build status](https://ci.appveyor.com/api/projects/status/f0bok1ljnshd2dr0?svg=true)](https://ci.appveyor.com/project/maxton/liborbispkg/build/artifacts)
+[![Build status](https://ci.appveyor.com/api/projects/status/gbq0trqrqet1r476?svg=true)](https://ci.appveyor.com/project/formlesstree4/liborbispkg)
 
 ## Note from OpenOrbis
 The original developer (maxton) has passed away unexpectedly, we will be keeping this fork up to date as we rely on it for the OpenOrbis toolchain. His contributions will not be forgotten or abandoned. RIP.
@@ -13,7 +13,7 @@ Without a proper open PKG tool, the PS4 homebrew scene cannot flourish.
 All code in this repository is licensed under the GNU LGPL version 3, which can be found in LICENSE.txt.
 
 ## Download
-The latest builds are available to download at [AppVeyor](https://ci.appveyor.com/project/maxton/liborbispkg/build/artifacts).
+The latest builds are available to download at [AppVeyor](https://ci.appveyor.com/project/formlesstree4/liborbispkg/build/artifacts).
 
 ## Usage
 
